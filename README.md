@@ -2,9 +2,8 @@
 
 <br>
 <p align="center" style="font-family:courier;font-size:105%;">
-  <img src="https://github.com/uvavision/Curriculum-Labeling/blob/main/imgs/framework.png?raw=true" />
+  <img src="./imgs/framework.png?raw=true" />
   <br>
-  System Framework
 </p>
 <br>
 
